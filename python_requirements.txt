@@ -4,3 +4,4 @@ spacy
 scikit-learn
 nltk
 pyrouge
+unidecode
